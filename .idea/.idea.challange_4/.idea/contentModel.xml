@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\games\challange_4" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Challenge 4" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="EnemyX.cs" t="Include" />
+            <e p="PlayerControllerX.cs" t="Include" />
+            <e p="RotateCameraX.cs" t="Include" />
+            <e p="SpawnManagerX.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="challange_4.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\RLMKl\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\RLMKl\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_challange_4.1909594038.00" t="ExcludeRecursive" />
+  </component>
+</project>
